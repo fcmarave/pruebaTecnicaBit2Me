@@ -1,0 +1,41 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache HttpClient
+
+
+From: 'an unknown organization'
+  - JavaBeans Activation Framework (JAF) (http://java.sun.com/products/javabeans/jaf/index.jsp) javax.activation:activation:jar:1.1
+    License: Common Development and Distribution License (CDDL) v1.0  (https://glassfish.dev.java.net/public/CDDLv1.0.html)
+  - org.conscrypt:conscrypt-openjdk-uber (https://conscrypt.org/) org.conscrypt:conscrypt-openjdk-uber:jar:2.2.1
+    License: Apache 2  (https://www.apache.org/licenses/LICENSE-2.0)
+  - JSON in Java (https://github.com/douglascrockford/JSON-java) org.json:json:bundle:20201115
+    License: The JSON License  (http://json.org/license.html)
+  - BSON (https://bsonspec.org) org.mongodb:bson:jar:3.9.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MongoDB Java Driver Core (http://www.mongodb.org) org.mongodb:mongodb-driver-core:jar:3.9.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MongoDB Driver (http://www.mongodb.org) org.mongodb:mongodb-driver-sync:jar:3.9.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Oracle' (http://www.oracle.com)
+  - JavaMail API (compat) (http://kenai.com/projects/javamail/mail) javax.mail:mail:jar:1.5.0-b01
+    License: CDDL  (http://www.sun.com/cddl)    License: GPLv2+CE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.25
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Codec (https://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.13
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpComponents Core HTTP/1.1 (https://hc.apache.org/httpcomponents-core-5.0.x/) org.apache.httpcomponents.core5:httpcore5:jar:5.0.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpComponents Core HTTP/2 (https://hc.apache.org/httpcomponents-core-5.0.x/) org.apache.httpcomponents.core5:httpcore5-h2:jar:5.0.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
